@@ -22,8 +22,6 @@
 - [Software security comments](#software-security-comments)
 - [Features that DOSBox-X is unlikely to support at this time](#features-that-dosbox-x-is-unlikely-to-support-at-this-time)
 - [Origin and history of the DOSBox-X project](#origin-and-history-of-the-dosbox-x-project)
-- [Known DOSBox-X forks](#known-dosbox-x-forks)
-- [Support for international language translations and keyboard layouts](#support-for-international-language-translations-and-keyboard-layouts)
 
 ## Introduction to DOSBox-X
 
